@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "882482659925",
+    "project_id": "craftybay-dd778",
+    "storage_bucket": "craftybay-dd778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882482659925:android:aab5670f3c962983b94adc",
+        "android_client_info": {
+          "package_name": "com.example.crafty_bay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882482659925-lb8ejkhhtsj0loi6oham0g4t839musss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crafty_bay",
+            "certificate_hash": "9d4910fc78dfd0e57cb9dfd33c6ab0775cd67394"
+          }
+        },
+        {
+          "client_id": "882482659925-chds9b4kgip8bdhh2jo9pgbhv8mspdjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo1A0p9H_bJDVXXaB-6rmp3aaMPpVLcYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882482659925-chds9b4kgip8bdhh2jo9pgbhv8mspdjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
