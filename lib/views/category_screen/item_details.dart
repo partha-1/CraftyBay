@@ -11,6 +11,9 @@ class ItemDetails extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var controller =Get.find<ProductController>();
+    //if problem with searchbar item click on then set the controler get put
+    // var controller =Get.put(ProductController());
+
 
 
     return WillPopScope(
@@ -316,6 +319,7 @@ class ItemDetails extends StatelessWidget {
               child: ourButton(
                   color: primaryColor,
                   onPress: () {
+
                     controller.addToCart(
                       color: data['p_colors'][controller.colorIndex.value],
                       context: context,
